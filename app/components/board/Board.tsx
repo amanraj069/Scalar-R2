@@ -441,7 +441,7 @@ export const Board = () => {
                   <div className="flex items-center gap-2">
                     <button
                       type="submit"
-                      className="px-5 py-2.5 bg-gradient-to-r from-pink-500 to-purple-500 text-white text-sm font-bold rounded-full hover:from-pink-600 hover:to-purple-600 shadow-lg transform hover:scale-105 transition-all"
+                      className="px-5 py-2.5 bg-linear-to-r from-pink-500 to-purple-500 text-white text-sm font-bold rounded-full hover:from-pink-600 hover:to-purple-600 shadow-lg transform hover:scale-105 transition-all"
                     >
                       Add List! 🚀
                     </button>
